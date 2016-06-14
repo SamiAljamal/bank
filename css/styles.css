@@ -10,3 +10,21 @@
   border: 2px solid black;
   padding: 5px;
 }
+.newAccount {
+  float: left;
+  background-color: #65B859;
+  color: white;
+}
+
+.depositWithdraw{
+  float: right;
+  background-color: #65B859;
+  color: white;
+}
+#btns{
+  text-align: center;
+  margin-bottom: 10px;
+}
+h2 {
+  text-align: center;
+}
