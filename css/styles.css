@@ -1,0 +1,12 @@
+.balance {
+  text-align: center;
+}
+
+.balanceBox h3 {
+  display: inline;
+  text-align: center;
+  background-color: white;
+  width: 5%;
+  border: 2px solid black;
+  padding: 5px;
+}
